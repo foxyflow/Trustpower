@@ -1,2 +1,9 @@
 # Trustpower
-Trustpower is the repository name for Project Marquee
+LukesBranch
+
+to make a branch: in git bash write: git branch YOURNAMEOFYOURBRANCH PRESSENTER
+to change to your branch write: git checkout BRANCHNAME ... try git branch * shows which branch you are on.
+Then when adding your work: git add .
+git commit -m "your message"
+git push origin YOURBRANCH
+
