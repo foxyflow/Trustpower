@@ -7,3 +7,4 @@ Then when adding your work: git add . (PRESS ENTER)
 git commit -m "your message" (PRESS ENTER)
 git push origin YOURBRANCH (PRESS ENTER)
 
+Steps so far. Made a dumby database (test) with tables in SQL Server Management Studio. Some data is added from MVC -- the Category table. 
