@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marquee6", "Marquee6\Marquee6.csproj", "{19F412A0-A1AF-48B7-A2B0-AB63EA64149B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F412A0-A1AF-48B7-A2B0-AB63EA64149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F412A0-A1AF-48B7-A2B0-AB63EA64149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F412A0-A1AF-48B7-A2B0-AB63EA64149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F412A0-A1AF-48B7-A2B0-AB63EA64149B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD82607A-A020-4D00-9FBF-B362BB74B286}
+	EndGlobalSection
+EndGlobal
