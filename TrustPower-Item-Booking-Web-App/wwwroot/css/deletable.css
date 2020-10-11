@@ -1,0 +1,11 @@
+﻿
+
+
+.L, h2
+{
+    font-weight: bold;
+    color:indigo;
+    font:italic;
+    font-family:'Times New Roman', Times, serif;
+    font-display:block;
+}
